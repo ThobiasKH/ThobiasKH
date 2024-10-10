@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - Game Development
 - 3D Graphics
 
-## Languages I'm most proficient in
+## Favourite languages
 - Java
 - C
 - JavaScript
