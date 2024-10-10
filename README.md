@@ -14,9 +14,12 @@ You can click the Preview link to take a look at your changes.
 # Languages I'm most proficient in
 - Java
 - C
-- C#
 - JavaScript
+- C#
+- Haskell
 - Python
+- Rust
+- C++
 
 # Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThobiasKH&show_icons=true&theme=radical)
