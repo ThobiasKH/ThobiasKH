@@ -10,3 +10,10 @@ You can click the Preview link to take a look at your changes.
 - Machine Learning
 - Game Development
 - 3D Graphics
+
+# Languages I'm most proficient in
+- Java
+- C
+- C#
+- JavaScript
+- Python
