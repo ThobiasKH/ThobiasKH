@@ -29,5 +29,5 @@ Arch user *btw*
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThobiasKH&show_icons=true&theme=radical)
 
 ### Wise words by the greatest to ever do it
-> "So I am the smartest that has ever lived."
+> "So I am the smartest programmer that has ever lived."
 > — Terry A. Davis
