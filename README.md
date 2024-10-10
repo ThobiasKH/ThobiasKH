@@ -6,8 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # About Me
-![Arch Linux Logo](https://archlinux.org/favicon.ico) 
-- Arch user *btw*
+- ![Arch Linux Logo](https://archlinux.org/favicon.ico) user *btw*
 - Student
 - From Norway
 
