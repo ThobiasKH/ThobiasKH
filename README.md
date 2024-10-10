@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # About Me
-[![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-User-blue)](https://archlinux.org/)
+![Arch Linux Logo](https://archlinux.org/favicon.ico)
 Arch user *btw*
 
 # Interests
