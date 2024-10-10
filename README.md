@@ -26,7 +26,6 @@ You can click the Preview link to take a look at your changes.
 - Rust
 - C++
 
-# Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThobiasKH&show_icons=true&theme=radical)
 
 ### Wise words by the greatest to ever do it
