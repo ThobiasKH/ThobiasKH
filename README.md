@@ -26,8 +26,11 @@ You can click the Preview link to take a look at your changes.
 - Rust
 - C++
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThobiasKH&show_icons=true&theme=radical)
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThobiasKH&layout=compact&theme=dark" style="width: 40%">
+
+<img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=ThobiasKH&show_icons=true&theme=radical" style="width: 40%">
+
 
 ### Wise words by the greatest to ever do it
-> "So I am the smartest programmer that has ever lived."
+> "Jesus said 'I will rebuild this temple in 3 days.' I could make a compiler in 3 days."
 > — Terry A. Davis
