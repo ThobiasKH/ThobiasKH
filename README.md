@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 - Rust
 - C++
 
-<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThobiasKH&theme=dark" style="width: 40%">
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThobiasKH&theme=dark&cache_seconds=60" style="width: 40%">
 
 <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=ThobiasKH&show_icons=true&theme=radical" style="width: 40%">
 
