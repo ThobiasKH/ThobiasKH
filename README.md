@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 - Theoretical Computer Science
 - Machine Learning
 - Game Development
+- Low Level Programming
 - 3D Graphics
 
 ## Favourite/most used languages & tools
