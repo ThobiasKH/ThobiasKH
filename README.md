@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 - Low Level Programming
 - 3D Graphics
 - Mathematics
-- Physics
 
 ## Favourite/most used languages & tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
