@@ -30,6 +30,29 @@ You can click the Preview link to take a look at your changes.
 ![NASM](https://img.shields.io/badge/NASM-8038A4?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Wise words by the greatest to ever do it
-> "Jesus said 'I will rebuild this temple in 3 days.' I could make a compiler in 3 days."
-> — Terry A. Davis
+### Quotes by People Whose Work Remains a Source of Inspiration Today
+
+#### Évariste Galois, who pioneered Group Theory and died at the age of 20
+
+> **"If I, at the moment of my death, do not find that I have achieved all that I should have, I shall die in despair."**
+
+> **"I have no time. I have no time."**  
+> (Written the night before his fatal duel while rushing to complete his mathematical work.)
+
+---
+
+#### Niels Henrik Abel, known for his work in algebra and the unsolvability of the general quintic equation
+
+> **"It appears to me that if one wants to make progress in mathematics, one should study the masters, not the pupils."**
+
+---
+
+#### Kurt Gödel, creator of the incompleteness theorems
+
+> **"The meaning of a statement is its proof."**
+
+---
+
+#### Terry A. Davis, who built a temple with his own bare hands
+
+> **"Jesus said 'I will rebuild this temple in 3 days.' I could make a compiler in 3 days."**
