@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThobiasKH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThobiasKH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThobiasKH&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
