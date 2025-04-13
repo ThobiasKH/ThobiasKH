@@ -9,15 +9,15 @@ You can click the Preview link to take a look at your changes.
 - ![Arch Linux Logo](https://archlinux.org/favicon.ico) user *btw*
 - Student (Information Technology specializing in Machine Learning Engineering and Artificial Intelligence)
 - From Norway
-- Passionate about Pure Mathematics, Theoretical Computer Science, and their ever-growing intersection.
+- Passionate about Theoretical Computer Science and Mathematics.
 
 ## Main Interests
-- Pure Mathematics
 - Theoretical Computer Science
+- Mathematics
+- Complexity Theory
 - Machine Learning
-- Algorithmic Complexity
-- Mathematical Foundations of Computer Science
 - Low-Level Programming
+- Game Theory
 
 ## Favourite/Most Used Languages, Tools & Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
