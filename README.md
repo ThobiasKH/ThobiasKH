@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 - Complexity Theory
 - Machine Learning
 - Low-Level Programming
-- Game Theory
+- Logic 
 
 ## Favourite/Most Used Languages, Tools & Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
