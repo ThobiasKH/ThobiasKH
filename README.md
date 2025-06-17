@@ -14,10 +14,10 @@ You can click the Preview link to take a look at your changes.
 ## Main Interests
 - Theoretical Computer Science
 - Mathematics
-- Complexity Theory
-- Machine Learning
-- Low-Level Programming
-- Logic 
+- Type Theory
+- HoTT and foundations
+- Logic
+- Low-Level Programming 
 
 ## Favourite/Most Used Languages, Tools & Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
