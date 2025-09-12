@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 # About Me
 - ![Arch Linux Logo](https://archlinux.org/favicon.ico) user *btw*
-- Student (Information Technology specializing in Machine Learning Engineering and Artificial Intelligence)
+- Student (Information Technology specializing in Machine Learning Engineering and Artificial Intelligence, Single Subjects Department of Mathematics UiO)
 - From Norway
 - Passionate about Theoretical Computer Science and Mathematics.
 
