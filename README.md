@@ -12,11 +12,9 @@ You can click the Preview link to take a look at your changes.
 - Passionate about Theoretical Computer Science and Mathematics.
 
 ## Main Interests
-- Theoretical Computer Science
 - Mathematics
-- Type Theory
-- HoTT and foundations
-- Logic
+- Theoretical Computer Science
+- Logic, Algebra & more mathematical topics
 - Low-Level Programming 
 
 ## Favourite/Most Used Languages, Tools & Technologies
