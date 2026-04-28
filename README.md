@@ -12,10 +12,24 @@ You can click the Preview link to take a look at your changes.
 - Passionate about Theoretical Computer Science and Mathematics.
 
 ## Main Interests
-- Mathematics
+- Mathematics, especially the study of algebraic structures
 - Theoretical Computer Science
-- Logic, Algebra & more mathematical topics
-- Low-Level Programming 
+- Classical- and Parameterized Computational Complexity Theory
+- Low-Level Programming
+
+## Currently Working On
+- Research in parameterized complexity (Geography variants under width parameters)
+- Exploring complexity of decision problems in algebra
+- Preparing for advanced studies in mathematics / theoretical CS
+
+## Research & Projects
+- **Parameterized Complexity of Geography Variants**
+  - XNLP-hardness for Directed/Undirected Edge Geography parameterized by pathwidth
+  - XP Algorithm for Directed/Undirected Edge Geography on tree partitions
+  - Work in submission (ESA/IPEC)
+
+- **Hardware TRNG using STM32**
+  - Built entropy source using ADC noise + statistical testing
 
 ## Favourite/Most Used Languages, Tools & Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
