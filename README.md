@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 - Passionate about Theoretical Computer Science and Mathematics.
 
 ## Main Interests
-- Mathematics, especially the study of algebraic structures
 - Theoretical Computer Science
+- Mathematics, especially algebra, logic and discrete mathematics
 - Classical- and Parameterized Computational Complexity Theory
 - Low-Level Programming
 
