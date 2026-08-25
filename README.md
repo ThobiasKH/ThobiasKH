@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 # About Me
 - ![Arch Linux Logo](https://archlinux.org/favicon.ico) user *btw*
-- 2nd Year Undergraduate Student (Information Technology specializing in Machine Learning Engineering and Artificial Intelligence, Single Subjects Department of Mathematics UiO)
+- 3rd Year Undergraduate Student (Information Technology specializing in Machine Learning Engineering and Artificial Intelligence, Single Subjects Department of Mathematics UiO)
 - From Norway
 - Passionate about Theoretical Computer Science and Mathematics.
 
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 - **Parameterized Complexity of Geography Variants**
   - XNLP-hardness for Directed/Undirected Edge Geography parameterized by pathwidth
   - XP Algorithm for Directed/Undirected Edge Geography on tree partitions
-  - Work in submission (ESA/IPEC)
+  - Accepted to ESA 2026
 
 - **Hardware TRNG using STM32**
   - Built entropy source using ADC noise + statistical testing
