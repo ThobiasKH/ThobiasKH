@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 # About Me
 - ![Arch Linux Logo](https://archlinux.org/favicon.ico) user *btw*
-- 3rd Year Undergraduate Student (Information Technology specializing in Machine Learning Engineering and Artificial Intelligence, Single Subjects Department of Mathematics UiO)
+- 3rd Year Undergraduate Student (Information Technology specializing in Machine Learning Engineering and Artificial Intelligence, Single Subjects Department of Mathematics UiB (previously UiO))
 - From Norway
 - Passionate about Theoretical Computer Science and Mathematics.
 
@@ -15,10 +15,9 @@ You can click the Preview link to take a look at your changes.
 - Theoretical Computer Science
 - Mathematics, especially algebra, logic and discrete mathematics
 - Classical- and Parameterized Computational Complexity Theory
-- Low-Level Programming
 
 ## Currently Working On
-- Research in parameterized complexity (Geography variants under width parameters)
+- Research in parameterized complexity 
 - Exploring complexity of decision problems in algebra
 - Preparing for advanced studies in mathematics / theoretical CS
 
@@ -27,6 +26,7 @@ You can click the Preview link to take a look at your changes.
   - XNLP-hardness for Directed/Undirected Edge Geography parameterized by pathwidth
   - XP Algorithm for Directed/Undirected Edge Geography on tree partitions
   - Accepted to ESA 2026
+  - Invited to special issue of Theoretical Computer Science dedicated to top papers of ESA
 
 - **Hardware TRNG using STM32**
   - Built entropy source using ADC noise + statistical testing
